@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Hiba</h1>
 <h3 align="center">A passionate Software Developer and BSCS graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **MERN Stack Projects**  
 - 🌱 I’m currently learning **React and advanced web development**  
 - 💬 Ask me about **JavaScript, Firebase, HTML, CSS, and more!**  
-- 📫 How to reach me: **your-email@example.com**  
+- 📫 How to reach me: **syedahibaareej@gmail.com**  
 - ⚡ Fun fact: **I enjoy creating user-friendly applications and learning new technologies!**
 
 <h3 align="left">Connect with me:</h3>
@@ -31,18 +31,18 @@
   <a href="https://github.com/yourusername?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/-Explore%20My%20Projects-blue?style=for-the-badge&logo=github" alt="Explore My Projects">
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:syedahibaareej@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Contact%20Me-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me">
   </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" target="_blank">
+  <a href="https://github-readme-stats.vercel.app/api?username=dev-zaidi&show_icons=true" target="_blank">
     <img src="https://img.shields.io/badge/-View%20My%20Stats-success?style=for-the-badge&logo=github" alt="View My Stats">
   </a>
 </div>
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="yourusername" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-zaidi&show_icons=true&locale=en" alt="yourusername" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="yourusername" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-zaidi&" alt="yourusername" />
 </p>
